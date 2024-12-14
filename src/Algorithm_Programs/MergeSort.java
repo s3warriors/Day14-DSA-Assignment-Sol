@@ -1,3 +1,5 @@
+package Algorithm_Programs;
+
 public class MergeSort {
     public static void mergeSort(String[] arr, int left, int right) {
         if (left < right) {

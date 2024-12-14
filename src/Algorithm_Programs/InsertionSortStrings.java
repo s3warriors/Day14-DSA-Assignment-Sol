@@ -1,3 +1,5 @@
+package Algorithm_Programs;
+
 import java.util.Scanner;
 public class InsertionSortStrings {
     // Function to perform insertion sort on an array of strings

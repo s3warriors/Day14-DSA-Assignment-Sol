@@ -1,3 +1,5 @@
+package Algorithm_Programs;
+
 public class MessageCustomization {
     public static void main(String[] args) {
         String template = "Hello <<name>>, We have your full name as <<full name>> in our system. "
